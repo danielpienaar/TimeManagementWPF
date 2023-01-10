@@ -26,7 +26,8 @@ namespace TimeManagementClassLibrary.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-4MVNDR4;Initial Catalog=TimeManagementDB;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-4MVNDR4;Initial Catalog=TimeManagementDB;Integrated Security=" +
+            "True")]
         public string DBCS {
             get {
                 return ((string)(this["DBCS"]));
