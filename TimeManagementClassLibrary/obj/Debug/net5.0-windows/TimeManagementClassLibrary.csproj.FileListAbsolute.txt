@@ -1,0 +1,66 @@
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.csproj.AssemblyReference.cache
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary_MarkupCompile.cache
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary_MarkupCompile.lref
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.dll
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\refint\TimeManagementClassLibrary.dll
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.pdb
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.deps.json
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.dll
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.pdb
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\Themes\Generic.baml
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.g.resources
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.AssemblyInfo.cs
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\ref\TimeManagementClassLibrary.dll
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.deps.json
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.dll
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.pdb
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary_MarkupCompile.cache
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary_MarkupCompile.lref
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\Themes\Generic.baml
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.g.resources
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.AssemblyInfo.cs
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.dll
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\refint\TimeManagementClassLibrary.dll
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.pdb
+C:\Users\Daniel\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 1 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\ref\TimeManagementClassLibrary.dll
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.dll.config
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.deps.json
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.dll
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.pdb
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.csproj.AssemblyReference.cache
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary_MarkupCompile.cache
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary_MarkupCompile.lref
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\Themes\Generic.baml
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.g.resources
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.AssemblyInfo.cs
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.dll
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\refint\TimeManagementClassLibrary.dll
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.pdb
+C:\Users\User-PC\Dropbox\Varsity College\Year 2\Semester 2\PROG6212\ST10091943 PROG6212 POE Part 2 Daniel Pienaar\TimeManagementClassLibrary\obj\Debug\net5.0-windows\ref\TimeManagementClassLibrary.dll
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.dll.config
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.deps.json
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.dll
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\bin\Debug\net5.0-windows\TimeManagementClassLibrary.pdb
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary_MarkupCompile.cache
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary_MarkupCompile.lref
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\Themes\Generic.baml
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.g.resources
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.AssemblyInfo.cs
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.dll
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\refint\TimeManagementClassLibrary.dll
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\TimeManagementClassLibrary.pdb
+C:\Users\Daniel\Dropbox\MyProjects\TimeManagementWPF\TimeManagementClassLibrary\obj\Debug\net5.0-windows\ref\TimeManagementClassLibrary.dll

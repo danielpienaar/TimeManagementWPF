@@ -1,0 +1,22 @@
+CHANGELOG
+---
+
+- Set string properties to = String.empty instead of making them nullable, and gave multiple static properties default values
+
+- Changed StudyHours struct to a class that linked to a module through a key
+
+- Fixed bug where the first day of a week counted as part of the previous week when updating study hours
+
+- Added ability to register and log on to access your unique data, using the new Student class. Passwords are hashed for security
+
+- Added Insert method to all class library classes which sends their data to DB upon object creation
+
+- Added CRUD functionality for all 4 class libary classes to application using azure database (Student, Module, Semester, StudyHours)
+
+- Added multithreading to all db actions except for register and login, since user shouldn't be able to do anything else while attempting those actions
+
+- Added several public static fields to store data locally, minimizing the amount of queries necessary
+
+- Fixed bugs where not all UI elements were updated after adding or removing objects
+
+- Added styling to many elements and updated the look of the application

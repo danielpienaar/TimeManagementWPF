@@ -1,0 +1,26 @@
+﻿<Window x:Name="wndInfoWindow" x:Class="TimeManagementApp.InfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimeManagementApp"
+        mc:Ignorable="d"
+        Title="Time Manager" Height="450" Width="800" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="20,0,20,20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="lblHeader" Content="Semester Name" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Normal" Foreground="#FFAAABFF"/>
+        <Label x:Name="lblDate" Content="Date" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="18" FontWeight="Normal" Foreground="#FFAAABFF"/>
+        <Button x:Name="btnBack" Content="Back" FontSize="16" Width="40" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="White" Background="#FFFF9292" BorderBrush="#FFFF9292" Click="btnBack_Click"/>
+        <Button x:Name="btnAddModule" Content="New Module" FontSize="16"  Width="110" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="White" Background="#FFAAABFF" BorderBrush="#FFAAABFF" Margin="0,0,50,0" Click="btnAddModule_Click"/>
+        <Frame x:Name="DataFrame" NavigationUIVisibility="Hidden" Grid.Row="1" BorderBrush="#FF4A98FF"/>
+        
+    </Grid>
+</Window>

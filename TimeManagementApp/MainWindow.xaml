@@ -1,0 +1,39 @@
+﻿<Window x:Name="wndMainWindow" x:Class="TimeManagementApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimeManagementApp"
+        mc:Ignorable="d"
+        Title="Semester" Height="250" Width="400" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="btnLogOut" Width="55" Background="White" Content="Log Out" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="0" Click="btnLogOut_Click" BorderBrush="#FFFF9292" Foreground="#FFFF9292" Height="22" Margin="5,5,0,0"/>
+        <Label x:Name="lblWelcome" Content="Hi" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="24" Margin="0,20,0,0" Grid.Row="0" Foreground="#FFAAABFF"/>
+        
+        <Grid Width="250">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Label x:Name="lblHeader" Content="Select Semester" VerticalAlignment="Bottom" HorizontalAlignment="Left" FontSize="12" Margin="0,0,0,20" Grid.Row="0" Padding="0,5,5,5" Foreground="Black"/>
+            <ComboBox x:Name="cmbSemesters" VerticalAlignment="Bottom" Height="22" Margin="0,0,25,0" Grid.Row="0"/>
+            <Button x:Name="btnDeleteSemester" Content="X" Padding="0,-1,1,0" Height="22" Width="20" Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="btnDeleteSemester_Click" Background="#FFFF9292" BorderBrush="#FFFF9292" Foreground="White"/>
+            <Button x:Name="btnSelect" Width="90" Background="#FFAAABFF" Content="Select" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="1" Click="btnSelect_Click" BorderBrush="#FFAAABFF" Foreground="White" Height="22" Margin="0"/>
+            <Button x:Name="btnNewSemester" Width="90" Background="White" Content="Add Semester" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="1" Click="btnNewSemester_Click" BorderBrush="#FFAAABFF" Foreground="#FFAAABFF" Height="22" Margin="0"/>
+        </Grid>
+
+    </Grid>
+    
+</Window>
