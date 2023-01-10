@@ -8,6 +8,11 @@ _Author: Daniel Pienaar_
 
 ***
 
+This is the desktop wpf version of the project found here:
+https://github.com/danielpienaar/TimeManagementWebAppMVC
+
+^^ The updated web app version
+
 <br>
 
 ### How to run the program:
